@@ -1,0 +1,65 @@
+about:
+  description: aider is AI pair programming in your terminal
+  license: Apache-2.0
+  homepage: https://aider.chat/
+  head: 5dc9490
+  archived: false
+  latestVersion: v0.86.0
+  collectedAt: 2026-08-29T07:37:14Z
+timeline:
+  created: 2023-05-09
+  lastCommit: 2026-05-22
+  lastRelease: 2025-08-09
+popularity:
+  star: 48565
+  watcher: 260
+  fork: 4898
+  release: 93
+  contributor: 171
+  pullRequest: 893
+  issue: 4383
+language:
+  Python: 1333453
+  CSS: 67532
+  Shell: 66537
+  Tree-sitter Query: 64845
+  JavaScript: 60909
+  HTML: 44976
+  PowerShell: 19648
+  Dockerfile: 4405
+  SCSS: 1957
+  Ruby: 196
+totalLine: 1664458
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 48
+    closedIssue: 40
+    openIssue: 32
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 0
+    openPR: 160
+    closedIssue: 128
+    openIssue: 111
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 4
+    openPR: 257
+    closedIssue: 223
+    openIssue: 196
+    commit: 57
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 21
+    openPR: 325
+    closedIssue: 328
+    openIssue: 344
+    commit: 161

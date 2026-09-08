@@ -5,13 +5,13 @@ about:
   head: 5dc9490
   archived: false
   latestVersion: "v0.86.0"
-  collectedAt: 2026-09-08T02:42:07Z
+  collectedAt: 2026-09-08T05:23:48Z
 timeline:
   created: 2023-05-09
   lastCommit: 2026-05-22
   lastRelease: 2025-08-09
 popularity:
-  star: 48823
+  star: 48825
   watcher: 266
   fork: 4931
   release: 93
@@ -88,7 +88,7 @@ total:
   commit: 13138
 ---
 path: /home/runner/.x-repo/github.com/Aider-AI/aider
-collectedAt: 2026-09-08T02:42:13Z
+collectedAt: 2026-09-08T05:23:54Z
 loc:
   Python:
     code: 28565

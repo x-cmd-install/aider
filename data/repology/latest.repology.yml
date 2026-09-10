@@ -1,0 +1,226 @@
+- repo: altsisyphus
+  srcname: aider-chat
+  binnames:
+    - aider-chat
+  visiblename: aider-chat
+  version: 0.86.2
+  origversion: 0.86.2-alt1
+  status: newest
+  summary: AI pair programming in your terminal
+  maintainers:
+    - lav@altlinux.ru
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Tools
+- repo: aur
+  srcname: aider-chat
+  binname: aider-chat
+  visiblename: aider-chat
+  version: 0.86.2
+  origversion: 0.86.2-2
+  status: newest
+  summary: AI pair programming in your terminal
+  maintainers:
+    - auerhuhn@aur
+    - alphajack@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: aider-chat
+  binname: aider-chat-docs
+  visiblename: aider-chat-docs
+  version: 0.86.2
+  origversion: 0.86.2-2
+  status: newest
+  summary: AI pair programming in your terminal
+  maintainers:
+    - auerhuhn@aur
+    - alphajack@aur
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: aider
+  visiblename: aider
+  version: 0.86.2
+  origversion: null
+  status: newest
+  summary: AI pair programming in your terminal
+- repo: homebrew
+  srcname: aider
+  visiblename: aider
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: AI pair programming in your terminal
+- repo: nix_stable_24_11
+  srcname: aider-chat
+  visiblename: aider-chat
+  version: 0.62.0
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - taha.yssne@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: python313Packages.aider-chat
+  visiblename: python3.13-aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - python313Packages
+- repo: nix_stable_25_05
+  srcname: python312Packages.aider-chat
+  visiblename: python3.12-aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - python312Packages
+- repo: nix_stable_25_05
+  srcname: aider-chat
+  visiblename: aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: aider-chat-full
+  visiblename: aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: aider-chat-with-bedrock
+  visiblename: aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: aider-chat-with-browser
+  visiblename: aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: aider-chat-with-help
+  visiblename: aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: aider-chat-with-playwright
+  visiblename: aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: aider-chat
+  visiblename: aider-chat
+  version: 0.86.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: aider-chat
+  visiblename: aider-chat
+  version: 0.86.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: aider-chat
+  visiblename: aider-chat
+  version: 0.86.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: openmamba
+  subrepo: base
+  srcname: aider-chat
+  binnames:
+    - aider-chat
+  visiblename: aider-chat
+  version: 0.86.2
+  origversion: 0.86.2-3mamba
+  status: newest
+  summary: AI pair programming in your terminal
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - Apache License 2.0
+  categories:
+    - System/Libraries
+- repo: pypi
+  srcname: aider-chat
+  binname: aider-chat
+  visiblename: aider-chat
+  version: 0.86.2
+  origversion: null
+  status: newest
+  summary: Aider is AI pair programming in your terminal

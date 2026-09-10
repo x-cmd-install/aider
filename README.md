@@ -37,7 +37,7 @@ Total: **75,273** lines of code across **206** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 48,887 · **Forks**: 4,944 · **Open issues**: 4,413 · **Contributors**: 171
+- **Stars**: 48,887 · **Forks**: 4,943 · **Open issues**: 4,413 · **Contributors**: 171
 
 ## Totals (cumulative)
 
@@ -72,4 +72,4 @@ Install metadata for aider lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:52:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:59:01Z._

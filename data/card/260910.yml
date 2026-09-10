@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.86.0"
   latestRelease: "v0.86.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:51:32Z
+  collectedAt: 2026-09-10T22:58:47Z
 timeline:
   created: 2023-05-09
   lastCommit: 2026-05-22
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 48887
   watcher: 265
-  fork: 4944
+  fork: 4943
   release: 93
   contributor: 171
   pullRequest: 1201
@@ -92,7 +92,7 @@ total:
   commit: 13138
 ---
 path: /home/runner/.x-repo/github.com/Aider-AI/aider
-collectedAt: 2026-09-10T20:51:42Z
+collectedAt: 2026-09-10T22:58:55Z
 loc:
   Python:
     code: 28565

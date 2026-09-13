@@ -65,20 +65,6 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
-  srcname: python313Packages.aider-chat
-  visiblename: python3.13-aider-chat
-  version: 0.83.1
-  origversion: null
-  status: outdated
-  summary: AI pair programming in your terminal
-  maintainers:
-    - raphael@megzari.com
-    - yuan.zx@outlook.com
-  licenses:
-    - Apache-2.0
-  categories:
-    - python313Packages
-- repo: nix_stable_25_05
   srcname: python312Packages.aider-chat
   visiblename: python3.12-aider-chat
   version: 0.83.1
@@ -92,6 +78,20 @@
     - Apache-2.0
   categories:
     - python312Packages
+- repo: nix_stable_25_05
+  srcname: python313Packages.aider-chat
+  visiblename: python3.13-aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - python313Packages
 - repo: nix_stable_25_05
   srcname: aider-chat
   visiblename: aider-chat
@@ -216,6 +216,22 @@
     - Apache License 2.0
   categories:
     - System/Libraries
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: aider
+  binnames:
+    - aider
+  visiblename: aider
+  version: 0.86.2
+  origversion: 0.86.2-1
+  status: newest
+  summary: AI pair programming in your terminal
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Other
 - repo: pypi
   srcname: aider-chat
   binname: aider-chat

@@ -37,26 +37,26 @@ Total: **75,273** lines of code across **206** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 48,906 · **Forks**: 4,944 · **Open issues**: 4,413 · **Contributors**: 171
+- **Stars**: 48,920 · **Forks**: 4,942 · **Open issues**: 4,417 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 490 · **Closed issues**: 3042 · **Open issues**: 1371 · **Commits**: 13138
+- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 491 · **Closed issues**: 3047 · **Open issues**: 1370 · **Commits**: 13138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 45 | 32 | 40 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 76 | 69 | 66 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 152 | 128 | 115 | 0 |
-| last180d | 2026-03-15 | 0 | 3 | 252 | 220 | 203 | 27 |
-| 360d | 2025-09-16 | 0 | 21 | 333 | 334 | 353 | 158 |
-| last720d | 2024-09-21 | 30 | 184 | 483 | 1775 | 1263 | 5779 |
+| 30d | 2026-08-14 | 0 | 0 | 43 | 35 | 38 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 75 | 71 | 61 | 0 |
+| 90d | 2026-06-15 | 0 | 0 | 153 | 130 | 109 | 0 |
+| last180d | 2026-03-17 | 0 | 2 | 247 | 224 | 200 | 27 |
+| 360d | 2025-09-18 | 0 | 21 | 333 | 337 | 350 | 158 |
+| last720d | 2024-09-23 | 29 | 180 | 484 | 1727 | 1260 | 5722 |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/aider). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/aider). **7** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -72,4 +72,4 @@ Install metadata for aider lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:40:08Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:29:17Z._

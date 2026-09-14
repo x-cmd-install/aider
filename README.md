@@ -37,31 +37,22 @@ Total: **75,273** lines of code across **206** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 48,920 · **Forks**: 4,942 · **Open issues**: 4,417 · **Contributors**: 171
+- **Stars**: 48,944 · **Forks**: 4,945 · **Open issues**: 4,423 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 491 · **Closed issues**: 3047 · **Open issues**: 1370 · **Commits**: 13138
+- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 493 · **Closed issues**: 3048 · **Open issues**: 1375 · **Commits**: 13138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 43 | 35 | 38 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 75 | 71 | 61 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 153 | 130 | 109 | 0 |
-| last180d | 2026-03-17 | 0 | 2 | 247 | 224 | 200 | 27 |
-| 360d | 2025-09-18 | 0 | 21 | 333 | 337 | 350 | 158 |
-| last720d | 2024-09-23 | 29 | 180 | 484 | 1727 | 1260 | 5722 |
-
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/aider). **7** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.86.2` | ✅ latest |
-| Nix unstable | `0.86.1` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 0 | 44 | 35 | 40 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 77 | 71 | 63 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 153 | 131 | 113 | 0 |
+| last180d | 2026-03-18 | 0 | 2 | 249 | 224 | 205 | 27 |
+| 360d | 2025-09-19 | 0 | 21 | 335 | 338 | 354 | 158 |
+| last720d | 2024-09-24 | 29 | 180 | 486 | 1708 | 1264 | 5687 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for aider lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:29:17Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:44:33Z._

@@ -4,7 +4,7 @@
 
 aider is AI pair programming in your terminal
 
-![aider](https://repo.x-cmd.io/aider.svg)
+[![x-cmd/install — aider Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aider.svg)](https://x-cmd.com/install/aider)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **75,273** lines of code across **206** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,032 · **Forks**: 4,973 · **Open issues**: 4,430 · **Contributors**: 171
+- **Stars**: 49,069 · **Forks**: 4,978 · **Open issues**: 4,439 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 499 · **Closed issues**: 3053 · **Open issues**: 1377 · **Commits**: 13138
+- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 502 · **Closed issues**: 3061 · **Open issues**: 1378 · **Commits**: 13138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 46 | 35 | 39 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 81 | 72 | 63 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 147 | 120 | 112 | 0 |
-| last180d | 2026-03-22 | 0 | 2 | 253 | 224 | 203 | 27 |
-| 360d | 2025-09-23 | 0 | 21 | 341 | 343 | 354 | 158 |
-| last720d | 2024-09-28 | 29 | 174 | 491 | 1637 | 1265 | 5442 |
+| 30d | 2026-08-21 | 0 | 0 | 47 | 39 | 39 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 82 | 77 | 64 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 145 | 127 | 110 | 0 |
+| last180d | 2026-03-24 | 0 | 2 | 255 | 232 | 202 | 27 |
+| 360d | 2025-09-25 | 0 | 21 | 344 | 348 | 354 | 149 |
+| last720d | 2024-09-30 | 28 | 172 | 492 | 1617 | 1263 | 5369 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for aider lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:38:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:48:01Z._

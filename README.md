@@ -37,22 +37,22 @@ Total: **75,273** lines of code across **206** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,958 · **Forks**: 5,138 · **Open issues**: 4,575 · **Contributors**: 171
+- **Stars**: 49,980 · **Forks**: 5,141 · **Open issues**: 4,581 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 535 · **Closed issues**: 3166 · **Open issues**: 1409 · **Commits**: 13138
+- **Releases**: 93 · **Merged PRs**: 288 · **Open PRs**: 541 · **Closed issues**: 3170 · **Open issues**: 1411 · **Commits**: 13138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 39 | 62 | 24 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 68 | 125 | 51 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 112 | 163 | 93 | 0 |
-| last180d | 2026-05-09 | 0 | 2 | 257 | 284 | 203 | 5 |
-| 360d | 2025-11-10 | 0 | 12 | 358 | 434 | 348 | 138 |
-| last720d | 2024-11-15 | 23 | 151 | 516 | 1285 | 1260 | 4632 |
+| 30d | 2026-10-07 | 0 | 0 | 41 | 64 | 24 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 70 | 129 | 52 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 115 | 165 | 94 | 0 |
+| last180d | 2026-05-10 | 0 | 2 | 259 | 287 | 204 | 5 |
+| 360d | 2025-11-11 | 0 | 12 | 362 | 438 | 349 | 138 |
+| last720d | 2024-11-16 | 23 | 151 | 522 | 1286 | 1260 | 4626 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for aider lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:19:57Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:29:14Z._

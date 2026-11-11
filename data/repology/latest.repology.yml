@@ -1,3 +1,15 @@
+- repo: nix_stable_25_05
+  srcname: aider-chat-with-bedrock
+  visiblename: aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: altsisyphus
   srcname: aider-chat
   binnames:
@@ -89,18 +101,6 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
-  srcname: aider-chat-with-bedrock
-  visiblename: aider-chat
-  version: 0.83.1
-  origversion: null
-  status: outdated
-  summary: AI pair programming in your terminal
-  maintainers:
-    - raphael@megzari.com
-    - yuan.zx@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
   srcname: aider-chat-with-browser
   visiblename: aider-chat
   version: 0.83.1
@@ -137,20 +137,6 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
-  srcname: python312Packages.aider-chat
-  visiblename: python3.12-aider-chat
-  version: 0.83.1
-  origversion: null
-  status: outdated
-  summary: AI pair programming in your terminal
-  maintainers:
-    - raphael@megzari.com
-    - yuan.zx@outlook.com
-  licenses:
-    - Apache-2.0
-  categories:
-    - python312Packages
-- repo: nix_stable_25_05
   srcname: python313Packages.aider-chat
   visiblename: python3.13-aider-chat
   version: 0.83.1
@@ -164,6 +150,20 @@
     - Apache-2.0
   categories:
     - python313Packages
+- repo: nix_stable_25_05
+  srcname: python312Packages.aider-chat
+  visiblename: python3.12-aider-chat
+  version: 0.83.1
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - raphael@megzari.com
+    - yuan.zx@outlook.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - python312Packages
 - repo: nix_stable_25_11
   srcname: aider-chat
   visiblename: aider-chat
@@ -223,7 +223,7 @@
     - aider
   visiblename: aider
   version: 0.86.2
-  origversion: 0.86.2-1
+  origversion: 0.86.2-2
   status: newest
   summary: AI pair programming in your terminal
   maintainers:

@@ -1,14 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: aider-chat
-  visiblename: aider-chat
-  version: 0.62.0
-  origversion: null
-  status: outdated
-  summary: AI pair programming in your terminal
-  maintainers:
-    - taha.yssne@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: altsisyphus
   srcname: aider-chat
   binnames:
@@ -64,6 +53,17 @@
   origversion: null
   status: rolling
   summary: AI pair programming in your terminal
+- repo: nix_stable_24_11
+  srcname: aider-chat
+  visiblename: aider-chat
+  version: 0.62.0
+  origversion: null
+  status: outdated
+  summary: AI pair programming in your terminal
+  maintainers:
+    - taha.yssne@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: python313Packages.aider-chat
   visiblename: python3.13-aider-chat
